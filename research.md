@@ -41,9 +41,13 @@
 - Intelligent Software Engineering
 - DDD (Domain-driven Design)
 - TDD (Test-driven Design)
-- Test Automation
-- Software Quality Assurance
 - BDD (Behavioral-driven Design)
+- MDD (Model-driven Development)
+- RDD (Risk-driven Development)
+- Test Automation
+- Test Design in Software Testing
+- Software Quality Assurance
+- Software Project Estimation
 - Customer Experience Gap
 - Conceptual Modeling
 - AI-based Software Architecture
@@ -57,7 +61,7 @@
 - Software Architecture
 - Lean Thinking
 - Agile Thinking
-- Low-code
+- Low-Code
 - Software Engineering Education
 - Interoperability
 - Reengineering Patterns
