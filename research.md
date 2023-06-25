@@ -42,6 +42,7 @@
 - DDD (Domain-driven Design)
 - TDD (Test-driven Design)
 - Test Automation
+- Software Quality Assurance
 - BDD (Behavioral-driven Design)
 - Customer Experience Gap
 - Conceptual Modeling
@@ -69,6 +70,10 @@
 - Requirements Clicitation
 - Automated Program Repair
 - Requirements Engineering
+- Software Metrics
+- Software Project Management
+- Reuse in Software Engineering
+- Risk Management in Software Engineering
 - Digital Transformation
 - Enterprise Architecture
 - Machine Learning Pipeline
