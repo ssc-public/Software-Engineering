@@ -60,6 +60,7 @@
 - Software Engineering Education
 - Interoperability
 - Reengineering Patterns
+- Process Patterns
 - Go4 Design Patterns
 - Go5 Architectural Patterns
 - Orchestration Workflow
