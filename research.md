@@ -61,6 +61,8 @@
 - Software Architecture
 - Lean Thinking
 - Agile Thinking
+- DAD Methodology
+- DSDM Methodology
 - Low-Code
 - Software Engineering Education
 - Interoperability
