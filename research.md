@@ -40,8 +40,8 @@
 
 - Intelligent Software Engineering
 - DDD (Domain-driven Design)
-- TDD (Test-driven Design)
-- BDD (Behavioral-driven Design)
+- BDD (Behavioral-driven Development)
+- TDD (Test-driven Development)
 - MDD (Model-driven Development)
 - RDD (Risk-driven Development)
 - Test Automation
