@@ -39,6 +39,7 @@
 در زیر تعدادی موضوع پیشنهادی برای تحقیق معرفی شده است. چنانچه شما نیز موضوع تازه‌ای را پیدا کرده‌اید که در این لیست نیست و می‌خواهید در مورد آن تحقیق کنید، ابتدا آن موضوع را با دستیاران آموزشی درس مطرح کنید و پس از تایید دستیار، به تحقیق روی آن بپردازید.
 
 - Intelligent Software Engineering
+- Software Modernization
 - Banking Transformation
 - DDD (Domain-driven Design)
 - BDD (Behavioral-driven Development)
