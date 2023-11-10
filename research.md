@@ -41,6 +41,7 @@
 - Software Modernization
 - Banking Transformation
 - DDD (Domain-driven Design)
+- ADD (Attribute-Driven Design)
 - BDD (Behavioral-driven Development)
 - TDD (Test-driven Development)
 - MDD (Model-driven Development)
@@ -83,5 +84,6 @@
 - Risk Management in Software Engineering
 - Digital Transformation
 - Enterprise Architecture
+- Architecture Development Method
 - Machine Learning Pipeline
 - Data Warehouse
