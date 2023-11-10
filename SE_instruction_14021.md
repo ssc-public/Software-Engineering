@@ -4,8 +4,9 @@
 - نیم‌سال اول ۱۴۰۲-۱۴۰۳
 - کد درس: ۴۰۴۷۴
 - ارائه‌دهنده: دکتر مهران ریواده
-- تاریخ پایانترم: -
+- تاریخ پایانترم: برای هر دو گروه درس، متفاوت و در سامانه آموزش آمده است.
 - تاریخ اعلام نمرات: ۱۴۰۲/۱۱/۱۸
+- کتاب مرجع درس: [Software Engineering, A Practitioner’s Approach - 8th Edition](https://github.com/ssc-public/Software-Engineering/blob/main/books/Software%20Engineering%2C%20A%20Practitioner%E2%80%99s%20Approach%20-%208th%20Edition.pdf)
 - می‌توانید تمامی نمرات مربوط به درس را در [این sheet](https://docs.google.com/spreadsheets/d/18j2WKA7byu80TszFXd_2Nd0kCW9fR7PJ-jhjlBNmT4M/edit#gid=1677209617) مشاهده کنید.
 - در صورت تغییر در هر یک از موارد گفته شده در این سند، به شما اطلاع‌رسانی خواهد شد.
 
