@@ -84,6 +84,7 @@
 - Risk Management in Software Engineering
 - Digital Transformation
 - Enterprise Architecture
+- FinTech
 - Architecture Development Method
 - Machine Learning Pipeline
 - Data Warehouse
