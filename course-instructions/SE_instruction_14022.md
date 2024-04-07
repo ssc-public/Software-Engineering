@@ -6,7 +6,7 @@
 - ارائه‌دهنده: دکتر مهران ریواده
 - تاریخ پایانترم: ۱۴۰۳/۰۳/۲۶ ساعت ۱۵:۳۰
 - تاریخ اعلام نمرات: ۱۴۰۳/۰۴/۱۴
-- مراجع درس: [Software Engineering, A Practitioner’s Approach - 8th Edition](https://github.com/ssc-public/Software-Engineering/blob/main/books/Software%20Engineering%2C%20A%20Practitioner%E2%80%99s%20Approach%20-%208th%20Edition.pdf) و [Software Engineering, A Practitioner’s Approach - 9th Edition](https://github.com/ssc-public/Software-Engineering/blob/main/books/Software%20Engineering%2C%20A%20Practitioner's%20Approach%20-%209th%20Edition.pdf)
+- مراجع درس: [Software Engineering, A Practitioner’s Approach - 8th Edition](https://github.com/ssc-public/Software-Engineering/blob/main/educational-resources/books/Software%20Engineering%2C%20A%20Practitioner’s%20Approach%20-%208th%20Edition.pdf) و [Software Engineering, A Practitioner’s Approach - 9th Edition](https://github.com/ssc-public/Software-Engineering/blob/main/educational-resources/books/Software%20Engineering%2C%20A%20Practitioner's%20Approach%20-%209th%20Edition.pdf)
 - می‌توانید تمامی نمرات مربوط به درس را در [این sheet](https://docs.google.com/spreadsheets/d/1WD8RID7ZRGw7bQSLsKqQqgTqZewPbeTDi2LnwSKgd2E/edit?usp=sharing) مشاهده کنید.
 - در صورت تغییر در هر یک از موارد گفته شده در این سند، به شما اطلاع‌رسانی خواهد شد.
 
